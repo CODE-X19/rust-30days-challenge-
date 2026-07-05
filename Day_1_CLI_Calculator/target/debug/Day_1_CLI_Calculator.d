@@ -1,0 +1,1 @@
+C:\Users\COEC\Documents\devs\RUST\rust-30days-challenge\Day_1_CLI_Calculator\target\debug\Day_1_CLI_Calculator.exe: C:\Users\COEC\Documents\devs\RUST\rust-30days-challenge\Day_1_CLI_Calculator\src\main.rs
