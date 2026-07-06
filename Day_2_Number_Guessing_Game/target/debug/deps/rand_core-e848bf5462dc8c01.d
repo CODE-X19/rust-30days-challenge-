@@ -1,0 +1,11 @@
+C:\Users\COEC\Documents\devs\RUST\rust-30days-challenge\Day_2_Number_Guessing_Game\target\debug\deps\rand_core-e848bf5462dc8c01.d: C:\Users\COEC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.5\src\lib.rs C:\Users\COEC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.5\src\block.rs C:\Users\COEC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.5\src\impls.rs C:\Users\COEC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.5\src\le.rs C:\Users\COEC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.5\src\os.rs
+
+C:\Users\COEC\Documents\devs\RUST\rust-30days-challenge\Day_2_Number_Guessing_Game\target\debug\deps\librand_core-e848bf5462dc8c01.rlib: C:\Users\COEC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.5\src\lib.rs C:\Users\COEC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.5\src\block.rs C:\Users\COEC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.5\src\impls.rs C:\Users\COEC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.5\src\le.rs C:\Users\COEC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.5\src\os.rs
+
+C:\Users\COEC\Documents\devs\RUST\rust-30days-challenge\Day_2_Number_Guessing_Game\target\debug\deps\librand_core-e848bf5462dc8c01.rmeta: C:\Users\COEC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.5\src\lib.rs C:\Users\COEC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.5\src\block.rs C:\Users\COEC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.5\src\impls.rs C:\Users\COEC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.5\src\le.rs C:\Users\COEC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.5\src\os.rs
+
+C:\Users\COEC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.5\src\lib.rs:
+C:\Users\COEC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.5\src\block.rs:
+C:\Users\COEC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.5\src\impls.rs:
+C:\Users\COEC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.5\src\le.rs:
+C:\Users\COEC\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.5\src\os.rs:

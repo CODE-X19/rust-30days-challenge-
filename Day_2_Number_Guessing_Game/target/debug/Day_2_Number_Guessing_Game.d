@@ -1,0 +1,1 @@
+C:\Users\COEC\Documents\devs\RUST\rust-30days-challenge\Day_2_Number_Guessing_Game\target\debug\Day_2_Number_Guessing_Game.exe: C:\Users\COEC\Documents\devs\RUST\rust-30days-challenge\Day_2_Number_Guessing_Game\src\main.rs
