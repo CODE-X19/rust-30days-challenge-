@@ -7,7 +7,7 @@ fn main() {
         
       let secret_num = rand::rng().random_range(1..=100);
 
-      loop {
+      'guessing_loop :loop {
         let mut guess_input = String::new();
 
         println!("Enter your guess:");
@@ -21,10 +21,10 @@ fn main() {
             }
         };
         if guess > 100 || guess < 1 {
-            println!("your guss is either over or below the secret number range ");
-            println!("the secrete number range is 1 -100 ");
+            println!("your guess is either over or below the secret number range ");
+            println!("the secret number range is 1 -100 ");
             continue;
-        } else {
+        }
             match guess.cmp(&secret_num) {
                 Ordering::Less => {
                     println!("too low! try again");
@@ -34,24 +34,31 @@ fn main() {
                 }
                 Ordering::Equal => {
                     println!("Congratulations! You guessed correctly!");
+                     println!("did you want to continue ENTER Yes/No");
+                loop {
+                    
+                let mut continue_input = String::new();
+                io::stdin().read_line(&mut continue_input).unwrap();
+                let answer = continue_input.trim().to_lowercase();
+                if answer == "yes" {
+                     
+                     break 'guessing_loop;
+                } else if answer == "no" {
+                    return;
+                }else {
+                     println!("Please enter yes or no.");
+                }
+                }
                 }
             }
 
-            if guess == secret_num {
-                println!("did you want to continue ENTER Yes/No");
-                let mut continue_input = String::new();
-                io::stdin().read_line(&mut continue_input).unwrap();
-                let continu = continue_input.trim().to_lowercase();
-                if continu == "yes" {
-                     
-                     break;
-                } else if continu == "No" {
-                    return;
-                }
+           
+                
+               
             }
         }
     }   
-    }
+    
    
-}
+
 
