@@ -1,0 +1,1 @@
+C:\Users\COEC\Documents\devs\RUST\rust-30days-challenge\Day_4_Student_Grade_Manager\target\debug\Day_4_Student_Grade_Manager.exe: C:\Users\COEC\Documents\devs\RUST\rust-30days-challenge\Day_4_Student_Grade_Manager\src\main.rs
